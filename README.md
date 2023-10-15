@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anof1r
-- 👀 I’m a Junior Frontend Angular developer
+- 👀 I’m a Frontend engenieer
 
 :computer:<b>Main Technologies:</b>
 
